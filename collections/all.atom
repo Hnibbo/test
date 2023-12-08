@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://imperialecom.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://imperialecom.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://imperialecom.com/collections/all.atom"/>
+  <title>Imperial eCommerce</title>
+  <updated>2023-11-18T11:50:46+01:00</updated>
+  <author>
+    <name>Imperial eCommerce</name>
+  </author>
+  <entry>
+    <id>https://imperialecom.com/products/8322446393509</id>
+    <published>2023-11-18T11:50:46+01:00</published>
+    <updated>2023-11-18T11:50:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-branded-one-product-store-0-9"/>
+    <title>Premium Branded One Product Store At 99% OFF</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/Newproductimage_f293cd4a-448d-477e-9ab9-aa92944dc047.png?v=1700304654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong>*Only 5 Available Every 24 Hours*</strong><br></p>
+<ul data-mce-fragment="1" id="ddc-pdp-bullet-points">
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Product</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span><br data-mce-fragment="1">
+</li>
+</ul>
+<ul class="list-presents" data-mce-fragment="1" id="ddc-pdp-bullet-points-bonus">
+<li data-mce-fragment="1">BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li data-mce-fragment="1">BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li data-mce-fragment="1">BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8322446393509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>xxxops</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8280862720165</id>
+    <published>2023-10-23T09:06:21+02:00</published>
+    <updated>2023-10-23T09:06:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-of-facebook-ads-management-at-50-off-3-free-video-ads-and-free-thumbnails-free-niche-store"/>
+    <title>4 Weeks Of Facebook Ads Management At 50% OFF + 3 FREE Video Ads And Free Thumbnails + FREE Niche Store</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/22-04-13-4screens-1080x1080-4_0c38a681-ff8f-4a28-990d-46f43cee6eaf.png?v=1698044790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 data-mce-fragment="1"><strong>DIAMOND PACKAGE - SAVE $2200</strong></h2>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3<span data-mce-fragment="1">60 Degree Service</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Personal Ad Manager</span></li>
+<li data-mce-fragment="1">FREE 3 video ads included</li>
+<li data-mce-fragment="1">Free Video Thumbnails </li>
+<li data-mce-fragment="1">Free Winning Product PDF Guide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FacebookAds</s:tag>
+    <s:tag>video ads</s:tag>
+    <s:variant>
+      <id>https://imperialecom.com/products/8280862720165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>b3_c12f_a2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8268970295461</id>
+    <published>2023-10-14T08:49:53+02:00</published>
+    <updated>2023-10-14T08:49:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-of-facebook-ads-management-at-20-off-free-general-store"/>
+    <title>4 Weeks Of Facebook Ads Management At 20% OFF+ FREE GENERAL STORE</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/22-04-13-4screens-1080x1080-3-3_07801e80-d576-4738-890f-8bf17f745331.png?v=1697266197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00 - 960.00
+            <a href="https://imperialecom.com/products/4-weeks-of-facebook-ads-management-at-20-off-free-general-store">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>3<span data-mce-fragment="1">60 Degree Service, L</span><span data-mce-fragment="1">aser targeting</span>
+</li>
+<li><span data-mce-fragment="1">Have Your Personal Ad Manager</span></li>
+<li><span data-mce-fragment="1">FREE General Store INCLUDED (Value $499)</span></li>
+<li><span data-mce-fragment="1">Store Ready To Make Sales</span></li>
+<li><span data-mce-fragment="1">Our Guarantee: make your first sale within a week or FULL REFUND</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8268970295461</id>
+      <title>4 weeks + FREE GENERAL STORE</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>b3_a3f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8268970295461</id>
+      <title>8 weeks + FREE GENERAL STORE [Best Selling]</title>
+      <s:price currency="USD">640.00</s:price>
+      <s:sku>b4_a3f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8268970295461</id>
+      <title>12 Ads Management Weeks + FREE GENERAL STORE [Recommended]</title>
+      <s:price currency="USD">960.00</s:price>
+      <s:sku>b13_a3f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8265953280165</id>
+    <published>2023-10-10T18:31:28+02:00</published>
+    <updated>2023-10-10T18:31:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-facebook-ads-management-at-40-off-3-free-video-ads"/>
+    <title>4 Weeks Facebook Ads Management At 40% OFF + 3 FREE Video Ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/facebookads3_d14ef028-310b-4c27-ab1a-af7b9406715d.png?v=1696955491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>360 Degree Service</li>
+<li>Laser targeting</li>
+<li>Audience prospecting</li>
+<li>24/7 customer support</li>
+<li>Proven to work campaign structure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8265953280165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>b3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8260688019621</id>
+    <published>2023-10-06T06:16:29+02:00</published>
+    <updated>2023-10-06T06:16:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/get-one-product-store"/>
+    <title>Premium Branded One Product Store</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/result-review-photo-1_grande_884cfd19-0ae8-4589-a0d0-8fba0661e48e.jpg?v=1696570780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Get A Successful One-Product Store Fully Built And Ready To Make Sales</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Product</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span><br data-mce-fragment="1">
+</li>
+</ul>
+<ul class="list-presents" data-mce-fragment="1">
+<li data-mce-fragment="1">BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li data-mce-fragment="1">BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li data-mce-fragment="1">BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8260688019621</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8256976617637</id>
+    <published>2023-10-03T10:54:20+02:00</published>
+    <updated>2023-10-03T10:54:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-general-store-free-facebook-ads-setup-3-free-video-ads"/>
+    <title>Premium General Store + FREE Facebook Ads Setup + 3 FREE Video Ads!</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/generalstore2_1_1_9341530f-4d1f-4ae5-9163-27e57a136216.png?v=1696323263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>⚠️ Limited Time Offer ⚠️<br>Get Your Successful General Store Fully Built And Ready To Make Sales, Loaded With 30 Winning Products + FREE Facebook Ads Setup for the store! What are you waiting for?</p>
+<ul>
+<li>Proven-to-convert</li>
+<li>Unique website design</li>
+<li>Preloaded with 30 winning products</li>
+<li>24/7 customer support</li>
+<li>Fast delivery: 2 business days</li>
+</ul>
+<ul class="list-presents">
+<li>BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li>BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li>BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256976617637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>a3_b1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8256418545829</id>
+    <published>2023-10-02T12:04:29+02:00</published>
+    <updated>2023-10-02T12:04:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-branded-niche-store-at-30-off-free-winning-product-guide"/>
+    <title>Premium Branded Niche Store At 30% OFF + Free Winning Product Guide</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/mac1niche_b8154ada-2742-4963-a435-3d7f7748cb84.png?v=1696241098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get Your own unique niche store loaded with winning products. Dominate one of The Top E-Commerce Niche Without any major Tech Skills, Marketing Knowledge Or A Huge Investment</p>
+<ul>
+<li>Proven-to-convert</li>
+<li>Unique website design</li>
+<li>Preloaded with 20 winning products of the same niche</li>
+<li>24/7 customer support</li>
+<li>Fast delivery: 2 business days</li>
+</ul>
+<ul class="list-presents">
+<li>BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li>BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li>BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256418545829</id>
+      <title>Home Accessories</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>a21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256418545829</id>
+      <title>Baby care</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>a22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256418545829</id>
+      <title>Pets</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>a23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256418545829</id>
+      <title>Fitness</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>a24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8256418545829</id>
+      <title>Beauty</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>a25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8252726640805</id>
+    <published>2023-09-26T16:36:42+02:00</published>
+    <updated>2023-09-26T16:36:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-facebook-ads-management-at-30-off-3-free-video-ads-free-winning-product"/>
+    <title>4 Weeks Facebook Ads Management At 30% OFF + 3 FREE Video Ads + FREE Winning Product!</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/videoplayer4_700x_d93df946-17a5-46ef-8ec4-63c67258ffb2.png?v=1695739009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3<span data-mce-fragment="1">60 Degree Service</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Personal Ad Manager</span></li>
+<li data-mce-fragment="1">FREE 3 video ads included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FacebookAds</s:tag>
+    <s:tag>video ads</s:tag>
+    <s:variant>
+      <id>https://imperialecom.com/products/8252726640805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>b3_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/7453925638309</id>
+    <published>2023-09-19T12:25:44+02:00</published>
+    <updated>2023-09-19T12:25:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-branded-one-product-store-free-video-ad"/>
+    <title>Premium Branded One Product Store + FREE Video Ad</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/products/21-11-29-iphone-screen-3_a1d0f49e-a69f-416b-81e1-20f8d4f9d45c.png?v=1643455004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Get A Successful One-Product Store Fully Built + FREE Video Ad Ready To Make Sales</p>
+<p data-mce-fragment="1">+ FREE Ad Video For Your Product (worth $49) Hurry Up! Limited Spots Available</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Product</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span><br data-mce-fragment="1">
+</li>
+</ul>
+<ul class="list-presents" data-mce-fragment="1">
+<li data-mce-fragment="1">BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li data-mce-fragment="1">BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li data-mce-fragment="1">BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul>
+<ul class="list-presents"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453925638309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8248870895781</id>
+    <published>2023-09-18T09:40:47+02:00</published>
+    <updated>2023-09-18T09:40:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-facebook-ads-management-at-40-off"/>
+    <title>4 Weeks Facebook Ads Management At 40% OFF</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/facebookads3_b64c6fb6-b8cd-4df3-99b9-c92fe4c5af1b.png?v=1695022850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>360 Degree Service</li>
+<li>Laser targeting</li>
+<li>Audience prospecting</li>
+<li>24/7 customer support</li>
+<li>Proven to work campaign structure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8248870895781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>b3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8248756306085</id>
+    <published>2023-09-17T18:46:57+02:00</published>
+    <updated>2023-09-17T18:46:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-general-store-at-30-off"/>
+    <title>Premium General Store At 30%OFF + FREE WINNING PRODUCT GUIDE</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/generalstore2_1_1_b3bcdac0-f593-4c7c-9185-80abbf853a6e.png?v=1694969098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Get Your Successful General Store Fully Built And Ready To Make Sales, Loaded With 30 Winning Products </p>
+<ul>
+<li>Proven-to-convert</li>
+<li>Unique website design</li>
+<li>Preloaded with 30 winning products</li>
+<li>24/7 customer support</li>
+<li>Fast delivery: 2 business days</li>
+</ul>
+<ul class="list-presents">
+<li>BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li>BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li>BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8248756306085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">348.00</s:price>
+      <s:sku>a3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8246851010725</id>
+    <published>2023-09-14T18:08:50+02:00</published>
+    <updated>2023-09-14T18:08:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-facebook-ads-1-on-1-mentorship-free-3-video-ads"/>
+    <title>4 Weeks Facebook Ads 1-on-1 Mentorship + Free 3 Video Ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/facebookads3_3c9c6265-da8c-4141-93fe-94c9ed815527.png?v=1694707434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            497.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire An <strong>Elite E-Commerce Media Buyer</strong> To Teach you 1-on-1 All The Secrets About Facebook Ads? <br><strong>Learn By Doing</strong> Approach: Let's Look Into Facebook Ads For Your Website Together and Optimize Them Together!</span></p>
+<p><span data-mce-fragment="1">What's included: </span></p>
+<ul>
+<li>1-on-1 Mentorship With Our Best <meta charset="utf-8">Ads Manager</li>
+<li>2 Weekly Calls With <meta charset="utf-8">Ads Manager</li>
+<li>
+<meta charset="utf-8">Rapid Communication via Skype/Telegram</li>
+<li>Learn By Doing approach </li>
+<li>Multiple Campaigns Insight<br>
+<ul data-mce-fragment="1"></ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8246851010725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">497.00</s:price>
+      <s:sku>b0_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8245797060773</id>
+    <published>2023-09-12T10:09:24+02:00</published>
+    <updated>2023-09-12T10:09:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/vip-premium-branded-one-product-store"/>
+    <title>VIP Premium Branded One Product Store</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/Newproductimage_d6df3f58-58e3-4e54-94d7-53d805ca4a8c.png?v=1694506172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Get A Successful One-Product Store Fully Built And Ready To Make Sales</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Product</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span><br data-mce-fragment="1">
+</li>
+</ul>
+<ul class="list-presents" data-mce-fragment="1">
+<li data-mce-fragment="1">BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li data-mce-fragment="1">BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li data-mce-fragment="1">BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8245797060773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>a1x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/7390033838245</id>
+    <published>2023-09-01T09:42:00+02:00</published>
+    <updated>2023-09-01T09:42:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/extra-video-ads"/>
+    <title>Extra Video Ads For Your Products</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/products/videoplayer4_5869c097-09a1-470b-89c3-8d802506a895.png?v=1642165137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            347.00 - 627.00
+            <a href="https://imperialecom.com/products/extra-video-ads">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Supercharge Your E-Commerce Success With Our Premium Video Ads<br></p>
+<ul>
+<li>Proven-to-convert Video Ads</li>
+<li>Top-quality, high-resolution video</li>
+<li>Video Ads to showcase any E-Com product</li>
+<li>Highly engaging video Ad</li>
+<li>Fast service: 2 Days delivery days</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/7390033838245</id>
+      <title>6 Videos &amp; 6 Thumbnails (Save 50%)</title>
+      <s:price currency="USD">347.00</s:price>
+      <s:sku>c14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7390033838245</id>
+      <title>9 Videos &amp; 9 Thumbnails (Save 60%)</title>
+      <s:price currency="USD">517.00</s:price>
+      <s:sku>c15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7390033838245</id>
+      <title>12 Videos &amp; 12 Thumbnails (Save 70%)</title>
+      <s:price currency="USD">627.00</s:price>
+      <s:sku>c16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/7517122592933</id>
+    <published>2023-08-05T07:21:23+02:00</published>
+    <updated>2023-08-05T07:21:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/8-weeks-facebook-ads-management-at-75-off"/>
+    <title>8 Weeks Facebook Ads Management At 75% OFF</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/products/facebookads3_9a887340-a1af-4538-a20c-4bced39f5990.png?v=1645162232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>360 Degree Service</li>
+<li>Laser targeting</li>
+<li>Audience prospecting</li>
+<li>24/7 customer support</li>
+<li>Proven to work campaign structure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/7517122592933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>b4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8229582733477</id>
+    <published>2023-08-03T19:59:31+02:00</published>
+    <updated>2023-08-03T19:59:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/8-weeks-facebook-ads-management-free-3-video-ads"/>
+    <title>8 Weeks Facebook Ads Management + FREE 3 Video ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/22-04-13-4screens-1080x1080-2-2_3cefc94c-0cbc-4952-8471-8c7c9e3302ee.png?v=1691085575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">Do You Want To Start Your Own Branded Dropshipping Ecommerce Business and Want To Hire A Team Of Elite E-Commerce Ad Experts To setup and manage your TilTok ads As Well? If You Answered Yes, This Is Your Time.</span></p>
+<meta charset="utf-8">
+<ul>
+<li>
+<span>360 Degree Service, L</span><span>aser targeting</span>
+</li>
+<li><span data-mce-fragment="1">Have Your Personal Ad Manager</span></li>
+<li><span data-mce-fragment="1">FREE Niche Store INCLUDED (Value $199)</span></li>
+<li><span data-mce-fragment="1">Store Ready To Make Sales</span></li>
+<li><span data-mce-fragment="1">Our Guarantee: make your first sale within a week or FULL REFUND</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229582733477</id>
+      <title>Home Accessories</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>b2_a21f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229582733477</id>
+      <title>Baby Care</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>b2_a22f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229582733477</id>
+      <title>Pets</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>b2_a23f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229582733477</id>
+      <title>Fitness</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>b2_a24f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229582733477</id>
+      <title>Beauty</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>b2_a25f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8229553307813</id>
+    <published>2023-08-03T16:37:20+02:00</published>
+    <updated>2023-08-03T16:37:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-facebook-ads-management-3-free-video-ads"/>
+    <title>4 Weeks Facebook Ads Management + 3 Free Video Ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/facebookads3_40b2ea69-1c9d-4108-8969-ddf2cc9b2d68.png?v=1691073442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>360 Degree Service</li>
+<li>Laser targeting</li>
+<li>Audience prospecting</li>
+<li>24/7 customer support</li>
+<li>Proven to work campaign structure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8229553307813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>b3_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/7453946708133</id>
+    <published>2023-07-16T16:44:31+02:00</published>
+    <updated>2023-07-16T16:44:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-branded-niche-store-fb-setup"/>
+    <title>Premium Branded Niche Store + Facebook Ads Setup</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/products/mac1niche_e96be8ef-4728-43e6-9229-65325b792a99.png?v=1643455552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>⚠️ Limited Time Offer ⚠️<br>Get Your own unique niche store loaded with winning products. Dominate one of The Top E-Commerce Niche Without any major Tech Skills, Marketing Knowledge Or A Huge Investment</p>
+<p>+ FREE Facebook Ads Setup For Your Store! What are you waiting for?</p>
+<ul>
+<li>Proven-to-convert</li>
+<li>Unique website design</li>
+<li>Preloaded with 20 winning products of the same niche</li>
+<li>24/7 customer support</li>
+<li>Fast delivery: 2 business days</li>
+</ul>
+<ul class="list-presents">
+<li>BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li>BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li>BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Home Accessories</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Baby care</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Fashion</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Outdoor</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Gaming</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Pets</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Fitness</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/7453946708133</id>
+      <title>Beauty</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8217093537957</id>
+    <published>2023-07-13T08:35:24+02:00</published>
+    <updated>2023-07-13T08:35:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/4-weeks-of-facebook-ads-management-at-50-off-3-free-video-ads-and-free-thumbnails-winning-products-pdf"/>
+    <title>4 Weeks Of Facebook Ads Management At 50% OFF + 3 FREE Video Ads And Free Thumbnails + Winning Products PDF</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/22-04-13-4screens-1080x1080-4_cfdb8f11-2205-478a-abe1-4b044d023495.png?v=1689230139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 data-mce-fragment="1"><strong>DIAMOND PACKAGE - SAVE $2000</strong></h2>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3<span data-mce-fragment="1">60 Degree Service</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Personal Ad Manager</span></li>
+<li data-mce-fragment="1">FREE 3 video ads included</li>
+<li data-mce-fragment="1">Free Video Thumbnails </li>
+<li data-mce-fragment="1">Free Winning Product PDF Guide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FacebookAds</s:tag>
+    <s:tag>video ads</s:tag>
+    <s:variant>
+      <id>https://imperialecom.com/products/8217093537957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>b3_c12f_d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8163473129637</id>
+    <published>2023-06-22T12:46:22+02:00</published>
+    <updated>2023-06-22T12:46:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/gold-package"/>
+    <title>4 WEEKS OF FACEBOOK ADS/TIKTOK ADS AT 50%OFF + FREE 3 VIDEO ADS</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/GoldPack.png?v=1688553311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To setup and manage your FaceBook ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span></p>
+<ul>
+<li>360 Degree Service</li>
+<li>Laser targeting</li>
+<li>Audience prospecting</li>
+<li>24/7 customer support</li>
+<li>Proven to work campaign structure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8163473129637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>b3_c4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8201519759525</id>
+    <published>2023-06-10T12:21:29+02:00</published>
+    <updated>2023-06-10T12:21:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/white-label-stores"/>
+    <title>White-Label Stores</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/Newproductimage_2389ad67-4058-4733-8cdf-c8ebae86c31a.png?v=1686392221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00 - 249.00
+            <a href="https://imperialecom.com/products/white-label-stores">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Want to sell Imperial stores to your clients?<br>Sell A Successful One-Product/Niche/General Stores Fully Built And Ready To Make Sales</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Every Store Is Unique</li>
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Products</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+</ul>
+<ul data-mce-fragment="1" class="list-presents"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>One Product Store</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>w1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>Niche - Home Accessories - 20 Products</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>w21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>Niche - Baby Care - 20 Products</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>w22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>Niche - Pets - 20 Products</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>w23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>Niche - Fitness - 20 Products</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>w24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>Niche - Beauty - 20 Products</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>w25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8201519759525</id>
+      <title>General Store - 30 products</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>w3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8196725506213</id>
+    <published>2023-05-25T21:34:16+02:00</published>
+    <updated>2023-05-25T21:34:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/premium-branded-niche-store-free-video-ads"/>
+    <title>Premium Branded Niche Store + Free 3 Video Ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/imperialecom.png?v=1685187975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">⚠️Only 4 Stores left with this offer⚠️</h2>
+<ul>
+<li>Ready To Make Sales<span data-mce-fragment="1"> and 2 days delivery</span>
+</li>
+<li>Un<span data-mce-fragment="1">ique website design, Using A Paid Theme</span>
+</li>
+<li>Preloaded with 20 winning products of the same niche</li>
+<li>3 FREE videos ads included ( Value <span data-mce-fragment="1">$299)</span><br>
+</li>
+<li><span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span></li>
+</ul>
+<ul class="list-presents">
+<li>BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li>BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li>BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8196725506213</id>
+      <title>Home Accessories</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>a21_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8196725506213</id>
+      <title>Baby care</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>a22_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8196725506213</id>
+      <title>Pets</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>a23_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8196725506213</id>
+      <title>Fitness</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>a24_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://imperialecom.com/products/8196725506213</id>
+      <title>Beauty</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>a25_c9f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8194676162725</id>
+    <published>2023-05-18T18:06:29+02:00</published>
+    <updated>2023-05-18T18:06:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/diamondpackage"/>
+    <title>8 Weeks of Facebook Ads/Tiktok ads at 40%OFF + FREE Upgrade to General store + FREE 6 Video ads</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/Diamond_1.png?v=1684428422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            497.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Do You Want To Hire A Team Of Elite E-Commerce Ad Buyers To set up and manage your Facebook Ads? Our customer journey and Ad campaigns are modeled on over $2,500,000 spent in ad traffic.</span><br></p>
+<ul>
+<li data-mce-fragment="1">3<span data-mce-fragment="1">60 Degree Service</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Personal Ad Manager</span></li>
+<li data-mce-fragment="1">FREE 6 video ads included</li>
+<li data-mce-fragment="1">FREE GENERAL STORE</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8194676162725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">497.00</s:price>
+      <s:sku>b4_a3f_c13f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8191594954917</id>
+    <published>2023-05-11T10:41:07+02:00</published>
+    <updated>2023-05-11T10:41:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/one-product-store"/>
+    <title>Premium Branded One Product Store</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/Newproductimage_ad40afa7-bd3b-48ff-9bac-6c4931ca2e4a.png?v=1683794088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Get A Successful One-Product Store Fully Built And Ready To Make Sales</p>
+<ul data-mce-fragment="1" id="ddc-pdp-bullet-points">
+<li data-mce-fragment="1">Ready To Make Sales</li>
+<li data-mce-fragment="1">Unique website design, Using A Paid Theme</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Preloaded with HIGH MARGIN, WINNING Product</span>
+</li>
+<li data-mce-fragment="1">24/7 Support and 2 days delivery </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Zero risks, if you don't like the store easily return it and get a 100% Refund</span><br data-mce-fragment="1">
+</li>
+</ul>
+<ul class="list-presents" data-mce-fragment="1" id="ddc-pdp-bullet-points-bonus">
+<li data-mce-fragment="1">BONUS #1: Dropshipping Success Step-By-Step Ebook(Value $99)</li>
+<li data-mce-fragment="1">BONUS #2: Facebook Ads Secrets For MAX ROI Ebook (Value $99)</li>
+<li data-mce-fragment="1">BONUS #3: Store Launch Checklist For Success Ebook (Value $49)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8191594954917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://imperialecom.com/products/8189150757029</id>
+    <published>2023-05-05T11:39:14+02:00</published>
+    <updated>2023-05-05T11:39:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://imperialecom.com/products/copy-of-2-weeks-facebook-ads-management-3-free-video-ads"/>
+    <title>2 Weeks Facebook Ads Management + 3 Free Video Ads And 3 Thumbnails</title>
+    <s:type></s:type>
+    <s:vendor>Imperial eCommerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0527/6880/0933/files/22-04-13-4screens-1080x1080-2-2_2cec24e7-cf05-40f7-b4da-a75d55c0e6d1.png?v=1683279559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial eCommerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">Do You Want To Start Your Own Branded Dropshipping Ecommerce Business and Want To Hire A Team Of Elite E-Commerce Ad Experts To setup and manage your TilTok ads As Well? If You Answered Yes, This Is Your Time.</span></p>
+<meta charset="utf-8">
+<ul>
+<li>
+<span>360 Degree Service, L</span><span>aser targeting</span>
+</li>
+<li><span data-mce-fragment="1">Have Your Personal Ad Manager</span></li>
+<li>Store Ready To Make Sales<br>
+</li>
+<li><span data-mce-fragment="1">Our Guarantee: make your first sale within a week or FULL REFUND</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://imperialecom.com/products/8189150757029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>b2_c12f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
